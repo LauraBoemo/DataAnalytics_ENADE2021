@@ -1,8 +1,12 @@
-# 🇺🇸 ENADE 2021 Database Analysis Tool // 🇧🇷 Ferramenta de Análise dos Dados do ENADE 2021
+# ENADE 2021 Database Analysis Tool
 
-    > 🇧🇷
+## 🇧🇷 Sobre o Presente Código
+
+Este é um programa capaz de ler os dados disponibilizados do ENADE de 2021 e manipulá-los.
 
 ## Dados do ENADE 2021
+
+> Por favor, baixe os arquivos microdados2021_arq1.txt e microdados2021_arq3.txt e insira-os nesta pasta (eles são pesados demais para serem carregados ao git)
 
 Os dados utilizados nesse projeto estão disponíveis neste [link](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enade).
 
@@ -20,9 +24,13 @@ Os dados utilizados nesse projeto estão disponíveis neste [link](https://www.g
 [x] Dado um curso, listar todas as notas (geral - NT_GER - e componente específico - NT_ES), calcular e mostrar as médias das mesmas
 [x] Mostrar as 'n' (n dado pelo usuário) maiores notas (geral ou específica, dado pelo usuário) mostrando o curso e IES (cruzar dados com arq1)
 
-    > 🇺🇸
+## 🇺🇸 About the present code
+
+This is a program capable of reading the data provided from the 2021 ENADE and manipulating it.
 
 ## ENADE 2021 Data
+
+> Please download the files microdados2021_arq1.txt and microdados2021_arq3.txt and place them in this folder (they are too large to be uploaded to git).
 
 The data used in this project is available at this [link](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enade).
 
