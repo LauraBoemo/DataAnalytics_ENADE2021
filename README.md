@@ -1,4 +1,4 @@
-# ENADE 2021 Database Analysis Tool
+# ENADE 2021 Database Analysis Tool (🇧🇷/🇺🇸)
 
 ## 🇧🇷 Sobre o Presente Código
 
@@ -23,6 +23,8 @@ Os dados utilizados nesse projeto estão disponíveis neste [link](https://www.g
 
 [x] Dado um curso, listar todas as notas (geral - NT_GER - e componente específico - NT_ES), calcular e mostrar as médias das mesmas
 [x] Mostrar as 'n' (n dado pelo usuário) maiores notas (geral ou específica, dado pelo usuário) mostrando o curso e IES (cruzar dados com arq1)
+
+---
 
 ## 🇺🇸 About the present code
 
